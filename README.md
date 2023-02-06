@@ -16,5 +16,5 @@ nesit = "!=" (esit değil)
 veya = || (eger (if) kullanırken "veya" anlamında)  
 eve = && (eger (if) kullanırken "ve" anlamında)  
 Basitleştirilmiş ve Türkçeleştirilmiş Fonksiyonlar:  
-yaz (Konsola Yazı Yazar) = Örn: yaz("Merhaba, Dünya!") bitir  
-temizle (Ekranı temizler) = Örn: temizle() bitir
+yaz (Konsola Yazı Yazar) = Örn: "yaz("Merhaba, Dünya!") bitir  "
+temizle (Ekranı temizler) = Örn: "temizle bitir"
