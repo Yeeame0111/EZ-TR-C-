@@ -4,7 +4,7 @@ Bu kod yeni yazılımcılara yardımcı olmak için yazılmıştır!
 
 # Nasıl Kullanılır?
 bitir = ; (noktalı virgül)  
-eger = if (if fonksiyonu)\n
+eger = if (if fonksiyonu)  
 edel = else (else fonksiyonu)  
 pac = { (parantez)  
 pkapa = } (parantez)  
