@@ -2,7 +2,7 @@
 EZ-TR ile C++ kodunu basitleştirebilir ve daha hızlı öğrenebilirsiniz!
 Bu kod yeni yazılımcılara yardımcı olmak için yazılmıştır!
 
-# ???
+# Nasıl Kullanılır?
 bitir = ; (noktalı virgül)  
 eger = if (if fonksiyonu)\n
 edel = else (else fonksiyonu)  
