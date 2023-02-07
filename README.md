@@ -21,5 +21,5 @@ yazi = string (string yani yazı değeri belirlemek için kullanılır)<br />
 sayi = int (sayı değerleri için kullanılır)<br />
 dtrk = setlocale (Unicode dilini Türkçe yapar bu şekilde Türkçe karakterleri yani: ö,ç,ü ve ğ yazabilirsiniz)<br />
 Basitleştirilmiş ve Türkçeleştirilmiş Fonksiyonlar:<br />
-yaz (Konsola Yazı Yazar) = Örn: "yaz("Merhaba, Dünya!") bitir<br />
+yaz (Konsola Yazı Yazar) = Örn: "yaz("Merhaba, Dünya!") bitir"<br />
 temizle (Ekranı temizler) = Örn: "temizle bitir"
