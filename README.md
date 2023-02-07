@@ -17,4 +17,4 @@ veya = || (eger (if) kullanırken "veya" anlamında)<br />
 eve = && (eger (if) kullanırken "ve" anlamında)<br />
 Basitleştirilmiş ve Türkçeleştirilmiş Fonksiyonlar:<br />
 yaz (Konsola Yazı Yazar) = Örn: "yaz("Merhaba, Dünya!") bitir<br />
-temizle (Ekranı temizler) = Örn: "temizle biti
+temizle (Ekranı temizler) = Örn: "temizle bitir"
