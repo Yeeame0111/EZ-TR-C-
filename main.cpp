@@ -15,10 +15,6 @@ nesit = "!=" (esit değil)
 veya = || (eger (if) kullanırken "veya" anlamında)
 eve = && (eger (if) kullanırken "ve" anlamında)
 yal = cin >> (kullanıcıdan değer alırken kullanılır)
-nxt = return 0 
-yazi = string (string yani yazı değeri belirlemek için kullanılır)
-sayi = int (sayı değerleri için kullanılır)
-dtrk = setlocale (Unicode dilini Türkçe yapar bu şekilde Türkçe karakterleri yani: ö,ç,ü ve ğ yazabilirsiniz)
 Basitleştirilmiş ve Türkçeleştirilmiş Fonksiyonlar:
 yaz (Konsola Yazı Yazar) = Örn: "yaz("Merhaba, Dünya!") bitir"
 temizle (Ekranı temizler) = Örn: "temizle bitir"
