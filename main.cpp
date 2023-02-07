@@ -28,10 +28,10 @@ imai pac
 	temizle bitir
 	yaz("Lutfen girdiginiz sifreyi tekrar girin") bitir
 	yal kontrolsifre bitir
-	eger (sifre eesit kontrolsifre) pac
+	eger(sifre eesit kontrolsifre) pac
 		yaz("Sifre Dogru!") bitir
 	pkapa
-	edel eger (sifre nesit kontrolsifre) pac
+	edel eger(sifre nesit kontrolsifre) pac
 		yaz("Sifre Yanlis!") bitir
 	pkapa
 pkapa
