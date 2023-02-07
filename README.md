@@ -6,6 +6,7 @@ Bu kod yeni yazılımcılara yardımcı olmak için yazılmıştır!
 bitir = ; (noktalı virgül)<br />
 eger = if (if fonksiyonu)<br />
 edel = else (else fonksiyonu)<br />
+egel = if else (if else fonksiyonu)<br />
 pac = { (açık süslü parantez)<br />
 pkapa = } (kapalı süslü parantez)<br />
 artix = ++ (iki tane artı while döngüsü için veya bir sayı arttırıken işe yarar)<br />
