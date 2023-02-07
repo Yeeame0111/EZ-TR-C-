@@ -2,7 +2,7 @@
 #include <locale>
 #include "eztr.h"
 
-//C++ EZ-TR Yeeame taraf�ndan yap�lm��t�r. -2023 VER: 0.1
+//C++ EZ-TR Ömer Studio tarafından yapılmıştır. -2023 VER: 0.1
 
 imai pac
 	yazi sifre bitir
